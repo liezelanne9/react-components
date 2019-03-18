@@ -1,0 +1,6 @@
+body {
+    background-image: url("https://i.imgur.com/U3Oq8a4.jpg");
+    background-color: rgb(0, 0, 0);
+    height: auto; /* You must set a specified height */
+    background-position: center;
+}
